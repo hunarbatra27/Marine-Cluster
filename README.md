@@ -1,0 +1,3 @@
+Marine Cluster is an IoT + Machine Learning-based monitoring system designed for lakes, ponds, and fisheries. The system collects temperature and TDS (Total Dissolved Solids) data through sensors, and uses scientific formulas to estimate pH and dissolved oxygen levels. These readings are analyzed by an ML classification model to determine the water health status — Good, At Risk, or Critical.
+
+By detecting anomalies early, the system can prevent disease spread from a single infected fish to the entire water body, protecting aquatic life and supporting fisheries. A user-friendly web interface provides real-time insights, visual graphs, and instant alerts, enabling fishermen and fish farmers to take timely action.
